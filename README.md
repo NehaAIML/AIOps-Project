@@ -4,7 +4,7 @@
 Clonning source code from repo
 
 ```
-git clone <https://github.com/NehaAIML/aiops_projects.git>
+git clone <https://github.com/NehaAIML/AIOps-Project.git>
 ```
 
 To add files into staging or to allow file to be tracked by git
